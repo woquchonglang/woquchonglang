@@ -8,7 +8,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woquchonglang&theme=dark&layout=compact)
 
-![Static Badge]((https://img.shields.io/badge/python-3.9-orange))
+![Static Badge](https://img.shields.io/badge/python-3.9-orange)
 
 
 
