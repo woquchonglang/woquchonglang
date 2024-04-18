@@ -9,6 +9,15 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woquchonglang&theme=dark&layout=compact)
 
 ![Static Badge](https://img.shields.io/badge/python-3.9-orange)
+![Static Badge](https://img.shields.io/badge/license-GPL-brightgreen)
+![Static Badge](https://img.shields.io/badge/C-C%2B%2B-blue)
+![Static Badge](https://img.shields.io/badge/linux-Ubuntu-orange)
+![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
+![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
+
+
+
+
 
 
 
