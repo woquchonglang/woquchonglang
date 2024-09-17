@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/python-3.9-orange)
 ![Static Badge](https://img.shields.io/badge/license-GPL-brightgreen)
 ![Static Badge](https://img.shields.io/badge/C-C%2B%2B-blue)
-![Static Badge](https://img.shields.io/badge/linux-Ubuntu-orange)
+![Static Badge](https://img.shields.io/badge/linux-arch-orange)
 ![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/keil-green?logo=keil)
 
