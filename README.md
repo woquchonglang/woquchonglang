@@ -8,12 +8,19 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woquchonglang&theme=dark&layout=compact)
 
-![Static Badge](https://img.shields.io/badge/python-3.9-orange)
-![Static Badge](https://img.shields.io/badge/license-GPL-brightgreen)
+![Static Badge](https://img.shields.io/badge/python-3.12-orange)
 ![Static Badge](https://img.shields.io/badge/C-C%2B%2B-blue)
-![Static Badge](https://img.shields.io/badge/linux-arch-orange)
-![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
-![Static Badge](https://img.shields.io/badge/keil-green?logo=keil)
+![Static Badge](https://img.shields.io/badge/nodejs-green?style=plastic&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/license-GPL-brightgreen)
+[![Static Badge](https://img.shields.io/badge/linux-arch-orange)](https://img.shields.io/badge/linux-arch-brightgreen?style=plastic&logo=Arch%20linux)
+![Static Badge](https://img.shields.io/badge/editor-neovim-blue?style=plastic&logo=neovim)
+![Static Badge](https://img.shields.io/badge/stm32-brightgreen?style=plastic&logo=stmicroelectronics)
+![Static Badge](https://img.shields.io/badge/esp32-blue?style=plastic&logo=espressif)
+![Static Badge](https://img.shields.io/badge/ros2-blue?style=plastic&logo=ros)
+
+
+
+
 
 
 
