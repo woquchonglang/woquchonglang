@@ -6,8 +6,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=woquchonglang&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woquchonglang&theme=dark&layout=compact)
-
 ![Static Badge](https://img.shields.io/badge/python-3.12-orange)
 ![Static Badge](https://img.shields.io/badge/C-C%2B%2B-blue)
 ![Static Badge](https://img.shields.io/badge/nodejs-green?style=plastic&logo=nodedotjs)
